@@ -1,0 +1,10 @@
+Release/
+build/
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
+*.bin
+*.hex
